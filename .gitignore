@@ -1,4 +1,4 @@
 #Directories to ignore
 
 .idea/
-.elasticbeanstalk
+.elasticbeanstalk/
