@@ -1,3 +1,1 @@
-.idea/
-# Elastic Beanstalk Files
-.elasticbeanstalk/
+.elasticbeanstalk/.idea/
